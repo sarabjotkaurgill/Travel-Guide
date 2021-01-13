@@ -1,6 +1,19 @@
 ## About
 
 Website based on travel guide of India which guide tourists to explore and visit more beautiful places.
+
+
+## Project has:
+ 
+ * Home Page
+ 
+ * Culture Page
+ 
+ * Destination Page
+ 
+ * Explore Page
+ 
+ * Contact Us Page
     
     
 ### Team
